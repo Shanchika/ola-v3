@@ -1,0 +1,4 @@
+
+<Context path="/ola-v3" docBase="myapp" reloadable="true">
+    <!-- You can add resources like database connections here if needed -->
+</Context>
